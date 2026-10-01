@@ -14,6 +14,18 @@ Frontend kết nối trực tiếp với Backend Node.js riêng biệt; **toàn 
 
 ---
 
+## 📸 Ảnh Chụp Màn Hình Giao Diện
+
+| 1. Trang chủ Tìm kiếm | 2. Kết quả tìm kiếm Open Library |
+| :---: | :---: |
+| ![Trang chủ](../docs/screenshots/01-home-page.png) | ![Kết quả tìm kiếm](../docs/screenshots/02-search-results.png) |
+
+| 3. Chi tiết tác phẩm (Modal) | 4. Tủ sách cá nhân & Thống kê |
+| :---: | :---: |
+| ![Chi tiết sách](../docs/screenshots/03-book-details-modal.png) | ![Tủ sách cá nhân](../docs/screenshots/04-my-bookshelf.png) |
+
+---
+
 ## 🛠 Công nghệ sử dụng
 
 * **Core**: Vue 3.5 (Composition API với `<script setup>`), TypeScript.

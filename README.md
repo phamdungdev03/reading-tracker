@@ -13,6 +13,22 @@
 
 ---
 
+## 📸 Ảnh Chụp Màn Hình Giao Diện (Screenshots)
+
+| 1. Trang chủ Tìm kiếm | 2. Kết quả tìm kiếm Open Library |
+| :---: | :---: |
+| ![Trang chủ](docs/screenshots/01-home-page.png) | ![Kết quả tìm kiếm](docs/screenshots/02-search-results.png) |
+
+| 3. Chi tiết tác phẩm (Modal) | 4. Tủ sách cá nhân & Thống kê |
+| :---: | :---: |
+| ![Chi tiết sách](docs/screenshots/03-book-details-modal.png) | ![Tủ sách cá nhân](docs/screenshots/04-my-bookshelf.png) |
+
+| 5. Cập nhật tiến độ & Chấm sao |
+| :---: |
+| ![Cập nhật tiến độ](docs/screenshots/05-edit-progress-modal.png) |
+
+---
+
 ## 🛠 Công Nghệ Sử Dụng (Tech Stack)
 
 | Thành phần | Công nghệ / Thư viện | Mô tả |
